@@ -1,0 +1,13 @@
+# 编译产物
+build/
+*.exe
+*.o
+*.obj
+
+# 调试文件
+*.pdb
+*.ilk
+
+# 系统文件
+Thumbs.db
+.DS_Store
